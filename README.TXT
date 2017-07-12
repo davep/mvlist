@@ -23,6 +23,5 @@ MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
 In other words, if it breaks something, don't complain to me.
 
-davep@hagbard.demon.co.uk (Dave Pearson)
-http://www.acemake.com/hagbard/
-http://www.hagbard.demon.co.uk/
+davep@davep.org (Dave Pearson)
+http://www.davep.org/
